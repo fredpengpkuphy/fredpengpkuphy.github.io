@@ -21,5 +21,9 @@ My first research project started from my freshman year, in which I conducted a 
 
 My second research project(advised by [Ziming Liu](https://kindxiaoming.github.io/)) is about the bias of activation functions, in which I attempt to investigate the influence of the activation function bias on initialization, training stability and convergence performance. I am currently trying to adjust the activation values by means of shifting, scaling, and even by trying to incorporate new normalization layers in order to optimize the training process. The project is still in the early stage.
 
+Selected publications
+======
+Coming soon!
+
 
 

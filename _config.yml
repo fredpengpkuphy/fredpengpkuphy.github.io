@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Zirui Peng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Physics of AI researcher"
+  location         : "Beijing, China"
+  employer         : "Peking University"
   uri              : # URL
   email            : "none@example.org" 
 

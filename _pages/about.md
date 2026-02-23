@@ -13,7 +13,7 @@ I'm now advised by Ziming Liu from [School of Artificial Intelligence](https://c
 
 Research experience
 ======
-My first research program started from my freshman year, in which I conducted a project with a more engineering-oriented approach. The core of it was to leverage the context learning capabilities of the large language model and the enhanced retrieval-generating technology to enhance the image reasoning ability of the large language model.
+My first research program started from my freshman year, in which I conducted a project with an engineering-oriented approach advised by Yinjun Wu from [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn). The core of it was to leverage the context learning capabilities of the large language model and the retrieval-augmented generation technology to enhance the image reasoning ability of the LLMs. The project has reached the final stage.
 
 
 

@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year undergraduate student from [School of Physics](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest mainly focuses on physics of AI and training dynamics of LLMs. I'm also developing my interest in generative models.
+I'm a second year undergraduate student from [School of Physics](https://www.phy.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest mainly focuses on physics of AI and training dynamics of LLMs. I'm also developing my interest in generative models.
 
-I'm now advised by Ziming Liu from [School of Artificial Intelligence], [Tsinghua University]
+I'm now advised by Ziming Liu from [School of Artificial Intelligence](https://collegeai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/).
 
 A data-driven personal website
 ======

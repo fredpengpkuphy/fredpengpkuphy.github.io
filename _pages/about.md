@@ -11,6 +11,9 @@ I'm a second year undergraduate student from [School of Physics](https://www.phy
 
 Research interest
 ======
+My research interest mainly focuses on physics of AI. Instead of improving the number of model parameters without any consideration, I believe that to achieve AGI, we need a more fundamental understanding of AI. Through experiments that progress from simple to complex, we can discover patterns and thereby establish a complete physical model of the AI system. This physical model can then guide us in designing more advanced and reasonable models.
+
+To be more detailed, I'm interested in the training dynamics of LLMs, the essence behind the neural scaling law. I'm also developing my interest in physics-guided generative models.
 
 Research experience
 ======

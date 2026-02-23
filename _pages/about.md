@@ -9,8 +9,7 @@ redirect_from:
 
 I'm a second year undergraduate student from [School of Physics](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest mainly focuses on physics of AI and training dynamics of LLMs. I'm also developing my interest in generative models.
 
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I'm now advised by Ziming Liu from [School of Artificial Intelligence], [Tsinghua University]
 
 A data-driven personal website
 ======

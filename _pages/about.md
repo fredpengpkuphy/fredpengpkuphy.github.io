@@ -9,8 +9,6 @@ redirect_from:
 
 I'm a second year undergraduate student from [School of Physics](https://www.phy.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). I'm now advised by [Ziming Liu](https://kindxiaoming.github.io/) from [School of Artificial Intelligence](https://collegeai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/).
 
-You can email me at fredpengphy.pku.edu.cn
-
 Research interest
 ======
 My research interest mainly focuses on physics of AI. Instead of improving the number of model parameters without any consideration, I believe that to achieve AGI, we need a more fundamental understanding of AI. Through experiments that progress from simple to complex, we can discover patterns and thereby establish a complete physical model of the AI system. This physical model can then guide us in designing more advanced and reasonable models.

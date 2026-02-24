@@ -23,6 +23,10 @@ My second research project(advised by [Ziming Liu](https://kindxiaoming.github.i
 
 Selected publications
 ======
+In my freshman year, I participated in LLM medical image segmentation competition held by [School of Physics](https://www.phy.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) and led the team to win the championship. Although it was a small intramural event, it still provided me with significant valuable experience.
+
+Selected publications
+======
 Coming soon!
 
 

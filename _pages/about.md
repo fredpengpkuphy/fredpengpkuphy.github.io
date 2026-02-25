@@ -26,7 +26,7 @@ My research interest mainly focuses on physics of AI and training dynamics.
 
 Research experience
 ======
-My first research project started from my freshman year, in which I conducted a project with an engineering-oriented approach advised by [Yinjun Wu](https://wuyinjun-1993.github.io/) from [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn). We discovered that leveraging the in-context learning capabilities of LLMs and integrating RAG technology can improve the performance of downstream image question-answering tasks. The project has reached the final stage.
+My first research project, advised by [Yinjun Wu](https://wuyinjun-1993.github.io/) from [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn), was about image question-answering. We discovered that leveraging the in-context learning capabilities of LLMs and integrating RAG technology can improve the performance on downstream reasoning tasks. The project has reached the final stage.
 
 My second research project(advised by [Ziming Liu](https://kindxiaoming.github.io/)) is about the bias of activation functions. We found that simple changes(e.g., shifting) in activation functions can lead to unexpected speed-up on toy tasks. We are now investigating the underlying mechanism and whether the benefit could scale up to large models.
 

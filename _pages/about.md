@@ -13,7 +13,9 @@ Research interest
 ======
 My research interest mainly focuses on physics of AI and training dynamics.
 
-- **Neural Scaling Laws**: Investigating the theoretical foundations and underlying nature of neural scaling laws.
+- **Neural Scaling Law**: Investigating the theoretical foundations and underlying nature of neural scaling laws.
+
+- **Neural thermodynamic law**: Understanding the training dynamics from the perspective of thermodynamics.
 
 - **Central Flow**: Analyzing gradient flow dynamics in the center of weight space and developing optimization algorithms inspired by these insights.
 

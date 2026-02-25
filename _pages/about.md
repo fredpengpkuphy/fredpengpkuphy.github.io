@@ -11,7 +11,17 @@ I'm a second year undergraduate student from [School of Physics](https://www.phy
 
 Research interest
 ======
-My research interest mainly focuses on physics of AI.
+My research interest mainly focuses on physics of AI and training dynamics.
+
+- **Neural Scaling Laws**: Investigating the theoretical foundations and underlying nature of neural scaling laws.
+
+- **Central Flow**: Analyzing gradient flow dynamics in the center of weight space and developing optimization algorithms inspired by these insights.
+
+- **Hessian and Sharpness**: Examining the geometric properties of the loss landscape to understand their impact on training speed, convergence behavior, and model robustness.
+
+- **Edge of Stability**: Characterizing its behavior and performance in momentum-based optimizers such as Adam.
+
+- **Physics-Guided Generative Models**: Developing generative AI frameworks that explicitly incorporate physical laws and constraints as inductive biases.
 
 
 Research experience

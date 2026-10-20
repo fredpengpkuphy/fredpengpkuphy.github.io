@@ -13,7 +13,7 @@ redirect_from:
     <div class="intro-text">
       <h1 id="intro-title">Zirui Peng</h1>
       <p>I am a junior (third-year undergraduate) at <a href="https://www.pku.edu.cn/">Peking University</a>, majoring in Physics and pursuing a double major in Artificial Intelligence.</p>
-      <p>I work at the intersection of physics and AI, with a particular interest in how neural networks learn. I currently conduct research under the supervision of Prof. Ziming Liu.</p>
+      <p>I work at the intersection of physics and AI, with a particular interest in how neural networks learn. I currently conduct research under the supervision of Prof. Ziming Liu at the College of AI, Tsinghua University.</p>
       <p class="intro-links"><a href="{{ '/files/Zirui_Peng_CV.pdf' | relative_url }}">CV (PDF)</a><a href="mailto:fredpengphy@stu.pku.edu.cn">Email</a></p>
     </div>
     <figure class="profile-photo"><img src="{{ '/images/zirui-peng-mit.jpg' | relative_url }}" alt="Zirui Peng at MIT" width="1800" height="1350"><figcaption>At MIT, summer 2026</figcaption></figure>

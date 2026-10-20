@@ -1,44 +1,51 @@
 ---
+layout: landing
 permalink: /
-title: "About me"
-author_profile: true
-redirect_from: 
+title: Zirui Peng
+description: Zirui Peng is an undergraduate at Peking University studying physics and artificial intelligence. His research focuses on neural network mechanisms and learning dynamics.
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm a second year undergraduate student from [School of Physics](https://www.phy.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). I'm now advised by [Ziming Liu](https://kindxiaoming.github.io/) from [School of Artificial Intelligence](https://collegeai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/).
+<main id="main-content">
+  <section class="intro" id="about" aria-labelledby="intro-title">
+    <div class="intro-text">
+      <h1 id="intro-title">Zirui Peng</h1>
+      <p>I am an undergraduate at <a href="https://www.pku.edu.cn/">Peking University</a>, majoring in Physics and pursuing a double major in Artificial Intelligence.</p>
+      <p>My research focuses on understanding how neural networks learn and using those insights to improve their performance. I am particularly interested in scaling laws, optimization dynamics, and generative models.</p>
+      <p class="intro-links"><a href="{{ '/files/Zirui_Peng_CV.pdf' | relative_url }}">CV (PDF)</a><a href="mailto:fredpengphy@stu.pku.edu.cn">Email</a><a href="https://github.com/fredpengpkuphy">GitHub</a></p>
+    </div>
+    <figure class="profile-photo"><img src="{{ '/images/zirui-peng-mit.jpg' | relative_url }}" alt="Zirui Peng at MIT" width="1800" height="1350"><figcaption>At MIT, summer 2026</figcaption></figure>
+  </section>
 
-Research interest
-======
-My research interest mainly focuses on physics of AI and training dynamics.
+  <section class="content-section" id="research" aria-labelledby="research-title">
+    <h2 id="research-title">Research</h2>
+    <p>I use simple, controllable models to study the mechanisms behind neural network behavior. My current work examines ensemble averaging and how efficiently neural networks use their depth. I am also interested in how training time, model size, and data affect scaling, and in optimization methods informed by these observations.</p>
+  </section>
 
-- **Neural Scaling Law**: Investigating the theoretical foundations and underlying nature of neural scaling laws.
+  <section class="content-section" id="publications" aria-labelledby="publications-title">
+    <h2 id="publications-title">Publications</h2>
+    <article class="publication">
+      <h3>Emergent Inverse-Depth Scaling From Nonlinearity In Attention</h3>
+      <p class="authors"><strong>Zirui Peng</strong>, Yizhou Liu, Ziming Liu, Jeff Gore</p>
+      <p>We show that nonlinear attention can produce inverse-depth loss scaling across different data spectra by focusing on relevant tokens.</p>
+      <p class="publication-links">2026 preprint, under review · <a href="https://arxiv.org/abs/2610.11063">arXiv</a> · <a href="https://arxiv.org/pdf/2610.11063">PDF</a></p>
+    </article>
+    <article class="publication">
+      <h3>Rethinking Activation Functions: Reducing Bias Can Improve Learning</h3>
+      <p class="authors"><strong>Zirui Peng</strong>, Heyi Zheng, Ziming Liu</p>
+      <p>We find that reducing activation bias can slow initial learning but improve final performance, including in larger vision and language models.</p>
+      <p class="publication-links">2026 preprint, under review · <a href="https://arxiv.org/abs/2610.14500">arXiv</a> · <a href="https://arxiv.org/pdf/2610.14500">PDF</a></p>
+    </article>
+  </section>
 
-- **Neural thermodynamic law**: Understanding the training dynamics from the perspective of thermodynamics.
+  <section class="content-section" id="background" aria-labelledby="background-title">
+    <h2 id="background-title">Background</h2>
+    <div class="entry"><div class="entry-date">Jul–Aug 2026</div><div><h3>Research Intern, MIT Department of Physics</h3><p>Worked with Prof. Jeff Gore on nonlinear attention and depth scaling.</p></div></div>
+    <div class="entry"><div class="entry-date">Sep 2024–present</div><div><h3>B.S. in Physics, Peking University</h3><p>Double major in Artificial Intelligence. GPA 3.86/4.00 (top 10% of cohort). Recipient of the Qin Wanshun Jin Yunhui scholarship.</p></div></div>
+    <div class="entry"><div class="entry-date">2025–2026</div><div><h3>Other projects</h3><p>Worked on fine-grained evidence selection for multimodal question answering (under review at AAAI). Built <a href="https://observable-explorer.com/">NanoGPT Observable Explorer</a> to compare model observables and training dynamics.</p></div></div>
+  </section>
 
-- **Central Flow**: Analyzing gradient flow dynamics in the center of weight space and developing optimization algorithms inspired by these insights.
-
-- **Hessian and Sharpness**: Examining the geometric properties of the loss landscape to understand their impact on training speed, convergence behavior, and model robustness.
-
-- **Edge of Stability**: Characterizing its behavior and performance in momentum-based optimizers such as Adam.
-
-- **Physics-Guided Generative Models**: Developing generative AI frameworks that explicitly incorporate physical laws and constraints as inductive biases.
-
-
-Research experience
-======
-My first research project, advised by [Yinjun Wu](https://wuyinjun-1993.github.io/) from [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn), was about image question-answering. We discovered that leveraging the in-context learning capabilities of LLMs and integrating RAG technology can improve the performance on downstream reasoning tasks. The project has reached the final stage.
-
-My second research project(advised by [Ziming Liu](https://kindxiaoming.github.io/)) is about the bias of activation functions. We found that simple changes(e.g., shifting) in activation functions can lead to unexpected speed-up on toy tasks. We are now investigating the underlying mechanism and whether the benefit could scale up to large models.
-
-Competition experience
-======
-In my freshman year, I participated in LLM medical image segmentation competition held by [School of Physics](https://www.phy.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) and led the team to win the championship. Although it was a small intramural event, it still provided me with significant valuable experience.
-
-Selected publications
-======
-Coming soon!
-
-
-
+  <section class="content-section contact" id="contact" aria-labelledby="contact-title"><h2 id="contact-title">Contact</h2><p>You can reach me at <a href="mailto:fredpengphy@stu.pku.edu.cn">fredpengphy@stu.pku.edu.cn</a> or <a href="mailto:zrpeng@mit.edu">zrpeng@mit.edu</a>.</p></section>
+</main>

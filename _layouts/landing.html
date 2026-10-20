@@ -1,0 +1,24 @@
+---
+layout: null
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ page.description | escape }}">
+  <meta property="og:title" content="{{ page.title | escape }}">
+  <meta property="og:description" content="{{ page.description | escape }}">
+  <meta property="og:image" content="{{ '/images/zirui-peng-mit.jpg' | absolute_url }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/images/favicon.svg' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/landing.css' | relative_url }}">
+  <title>{{ page.title | escape }}</title>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="site-header"><div class="header-inner"><a class="site-name" href="{{ '/' | relative_url }}">Zirui Peng</a><nav aria-label="Main navigation"><a href="{{ '/' | relative_url }}#about">About</a><a href="{{ '/' | relative_url }}#research">Research</a><a href="{{ '/' | relative_url }}#publications">Publications</a><a href="{{ '/' | relative_url }}#background">Background</a><a href="{{ '/' | relative_url }}#contact">Contact</a></nav></div></header>
+  {{ content }}
+  <footer class="site-footer"><div>© {{ site.time | date: '%Y' }} Zirui Peng</div><a href="{{ '/files/Zirui_Peng_CV.pdf' | relative_url }}">Download CV</a></footer>
+</body>
+</html>

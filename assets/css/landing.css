@@ -44,7 +44,6 @@ main { max-width: 1080px; margin: auto; padding: 0 28px; }
 .interest ul { padding-left: 19px; margin: 0; }
 .interest li { font-size: 14px; line-height: 1.65; margin: 0 0 9px; }
 .interest li:last-child { margin-bottom: 0; }
-.current-project { max-width: none !important; background: var(--soft); border-left: 3px solid #6d9dae; border-radius: 0 5px 5px 0; font-size: 14px; line-height: 1.7; margin: 22px 0 0 !important; padding: 17px 20px; }
 
 .publication { max-width: 900px; padding: 0 0 24px 18px; border-left: 3px solid #d5e4e9; }
 .publication + .publication { padding-top: 22px; border-top: 1px solid var(--line); }

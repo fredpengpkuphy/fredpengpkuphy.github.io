@@ -69,7 +69,7 @@ redirect_from:
 
   <dialog class="figure-dialog" id="figure-dialog" aria-label="Expanded research figure">
     <div class="figure-dialog__content">
-      <div class="figure-dialog__top"><button class="figure-dialog__close" type="button">Close image ×</button></div>
+      <div class="figure-dialog__top"><button class="figure-dialog__close" type="button" aria-label="Close image">×</button></div>
       <img class="figure-dialog__image" alt="">
       <p class="figure-dialog__caption"></p>
     </div>

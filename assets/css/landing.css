@@ -53,6 +53,10 @@ main { max-width: 1080px; margin: auto; padding: 0 28px; }
 .publication p, .entry p, .project p { font-size: 14px; line-height: 1.7; margin: 0 0 8px; }
 .publication .authors, .entry-date { color: var(--muted); }
 .publication-links { color: var(--muted); margin-top: 10px !important; }
+.publication-figure { max-width: 850px; margin: 18px 0 3px; }
+.publication-figure a { display: block; padding: 9px; background: white; border: 1px solid var(--line); border-radius: 6px; }
+.publication-figure img { display: block; width: 100%; height: auto; }
+.publication-figure figcaption { color: var(--muted); font-size: 12px; line-height: 1.5; margin-top: 7px; }
 .entry, .project { display: grid; grid-template-columns: 155px minmax(0, 1fr); gap: 24px; max-width: 900px; }
 .entry { margin-bottom: 23px; }
 .entry:last-child { margin-bottom: 0; }

@@ -40,21 +40,23 @@ redirect_from:
     <article class="publication">
       <h3>Emergent Inverse-Depth Scaling From Nonlinearity In Attention</h3>
       <p class="authors"><strong>Zirui Peng</strong>, Yizhou Liu, Ziming Liu, Jeff Gore</p>
-      <p>We show that nonlinear attention can produce inverse-depth loss scaling across different data spectra by focusing on relevant tokens.</p>
+      <p>We compare linear and nonlinear attention in controlled in-context learning tasks with varied data spectra. Nonlinear attention focuses on relevant tokens, allowing strong and weak spectral directions to be learned in parallel and producing inverse-depth loss scaling across the tested spectra. A layerwise error analysis explains both the loss floor and continued improvement with depth.</p>
       <p class="publication-links">2026 preprint, under review · <a href="https://arxiv.org/abs/2610.11063">arXiv</a> · <a href="https://arxiv.org/pdf/2610.11063">PDF</a></p>
+      <figure class="publication-figure"><a href="{{ '/images/figure1-attention.png' | relative_url }}" aria-label="Open Figure 1 from the inverse-depth scaling paper at full size"><img src="{{ '/images/figure1-attention.png' | relative_url }}" alt="Figure 1 compares loss scaling with depth for linear and nonlinear attention across easy and difficult tasks" width="2292" height="1288" loading="lazy"></a><figcaption>Figure 1. Nonlinear attention yields inverse-depth scaling across the tested data spectra. Click to enlarge.</figcaption></figure>
     </article>
     <article class="publication">
       <h3>Rethinking Activation Functions: Reducing Bias Can Improve Learning</h3>
       <p class="authors"><strong>Zirui Peng</strong>, Heyi Zheng, Ziming Liu</p>
-      <p>We find that reducing activation bias can slow initial learning but improve final performance, including in larger vision and language models.</p>
+      <p>We study how the nonzero mean of common activation functions affects learning. Reducing this activation bias slows early loss reduction but improves final performance. We link the reversal to overshoot, less smooth trajectories, transient use of bias-encoded information, and sharper loss landscapes; similar late-stage gains appear in larger vision and language models.</p>
       <p class="publication-links">2026 preprint, under review · <a href="https://arxiv.org/abs/2610.14500">arXiv</a> · <a href="https://arxiv.org/pdf/2610.14500">PDF</a></p>
+      <figure class="publication-figure"><a href="{{ '/images/figure1-activation-bias.png' | relative_url }}" aria-label="Open Figure 1 from the activation bias paper at full size"><img src="{{ '/images/figure1-activation-bias.png' | relative_url }}" alt="Figure 1 shows how reducing activation bias changes output distributions, learning curves, hidden-state trajectories, and loss landscapes" width="2600" height="853" loading="lazy"></a><figcaption>Figure 1. Overview of activation bias and its effects on learning. Click to enlarge.</figcaption></figure>
     </article>
   </section>
 
   <section class="content-section" id="background" aria-labelledby="background-title">
     <div class="section-heading"><h2 id="background-title">Background</h2><span>03</span></div>
     <div class="entry"><div class="entry-date">Jul–Aug 2026</div><div><h3>Research Intern, MIT Department of Physics</h3><p>Worked with Prof. Jeff Gore on nonlinear attention and depth scaling.</p></div></div>
-    <div class="entry"><div class="entry-date">Sep 2024–present</div><div><h3>B.S. in Physics, Peking University</h3><p>Double major in Artificial Intelligence. GPA 3.86/4.00 (top 10% of cohort). Recipient of the Qin Wanshun Jin Yunhui scholarship.</p></div></div>
+    <div class="entry"><div class="entry-date">Sep 2024–present</div><div><h3>B.S. in Physics, Peking University</h3><p>Double major in Artificial Intelligence. 2024 School-level Excellent Student; recipient of the 2024 Qin Wanshun Jin Yunhui scholarship.</p></div></div>
   </section>
 
   <section class="content-section" id="projects" aria-labelledby="projects-title">

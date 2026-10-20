@@ -50,6 +50,8 @@ main { max-width: 1080px; margin: auto; padding: 0 28px; }
 .publication:last-child { padding-bottom: 0; }
 .publication h3, .entry h3, .project h3 { font-size: 17px; line-height: 1.45; margin: 0 0 6px; font-weight: 650; }
 .publication p, .entry p, .project p { font-size: 14px; line-height: 1.7; margin: 0 0 8px; }
+.project h3 { text-wrap: balance; }
+.project p { max-width: 68ch; text-wrap: balance; }
 .publication .authors, .entry-date { color: var(--muted); }
 .publication-links { color: var(--muted); margin-top: 10px !important; }
 .publication-figure { max-width: 850px; margin: 18px 0 3px; }

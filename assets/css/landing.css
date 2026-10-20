@@ -56,6 +56,14 @@ main { max-width: 1080px; margin: auto; padding: 0 28px; }
 .publication-figure a { display: block; padding: 9px; background: white; border: 1px solid var(--line); border-radius: 6px; }
 .publication-figure img { display: block; width: 100%; height: auto; }
 .publication-figure figcaption { color: var(--muted); font-size: 12px; line-height: 1.5; margin-top: 7px; }
+.figure-dialog { width: min(96vw, 1500px); max-width: none; max-height: 94vh; padding: 0; border: 0; border-radius: 8px; background: white; box-shadow: 0 20px 70px #14242c55; }
+.figure-dialog::backdrop { background: #10232fcc; }
+.figure-dialog__content { display: flex; flex-direction: column; gap: 8px; max-height: 94vh; padding: 12px; }
+.figure-dialog__top { display: flex; justify-content: flex-end; }
+.figure-dialog__close { padding: 7px 12px; border: 1px solid var(--line); border-radius: 4px; background: white; color: var(--text); font: inherit; font-size: 13px; cursor: pointer; }
+.figure-dialog__close:hover { background: var(--soft); }
+.figure-dialog__image { display: block; width: auto; height: auto; max-width: 100%; max-height: calc(94vh - 110px); margin: auto; object-fit: contain; }
+.figure-dialog__caption { color: var(--muted); font-size: 12px; line-height: 1.4; text-align: center; margin: 0 12px 4px; }
 .entry, .project { display: grid; grid-template-columns: 155px minmax(0, 1fr); gap: 24px; max-width: 900px; }
 .entry { margin-bottom: 23px; }
 .entry:last-child { margin-bottom: 0; }

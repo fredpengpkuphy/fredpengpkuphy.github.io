@@ -66,4 +66,12 @@ redirect_from:
   </section>
 
   <section class="content-section contact" id="contact" aria-labelledby="contact-title"><div class="section-heading"><h2 id="contact-title">Contact</h2><span>05</span></div><p>You can reach me at <a href="mailto:fredpengphy@stu.pku.edu.cn">fredpengphy@stu.pku.edu.cn</a> or <a href="mailto:zrpeng@mit.edu">zrpeng@mit.edu</a>.</p></section>
+
+  <dialog class="figure-dialog" id="figure-dialog" aria-label="Expanded research figure">
+    <div class="figure-dialog__content">
+      <div class="figure-dialog__top"><button class="figure-dialog__close" type="button">Close image ×</button></div>
+      <img class="figure-dialog__image" alt="">
+      <p class="figure-dialog__caption"></p>
+    </div>
+  </dialog>
 </main>

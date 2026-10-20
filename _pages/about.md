@@ -19,8 +19,14 @@ redirect_from:
     <figure class="profile-photo"><img src="{{ '/images/zirui-peng-mit.jpg' | relative_url }}" alt="Zirui Peng at MIT" width="1800" height="1350"><figcaption>At MIT, summer 2026</figcaption></figure>
   </section>
 
+  <section class="content-section" id="background" aria-labelledby="background-title">
+    <div class="section-heading"><h2 id="background-title">Background</h2><span>01</span></div>
+    <div class="entry"><div class="entry-date">Jul–Aug 2026</div><div><h3>Research Intern, MIT Department of Physics</h3><p>Conducted research under the supervision of Prof. Jeff Gore.</p></div></div>
+    <div class="entry"><div class="entry-date">Sep 2024–present</div><div><h3>B.S. in Physics, Peking University</h3><p>2024 School-level Excellent Student; recipient of the 2024 Qin Wanshun Jin Yunhui scholarship.</p></div></div>
+  </section>
+
   <section class="content-section" id="research" aria-labelledby="research-title">
-    <div class="section-heading"><h2 id="research-title">Research interests</h2><span>01</span></div>
+    <div class="section-heading"><h2 id="research-title">Research interests</h2><span>02</span></div>
     <div class="research-intro">
       <p>My research focuses on understanding neural network mechanisms and developing algorithms guided by first principles to improve model performance.</p>
       <p><strong>For each topic, I begin by developing a deep, well-rounded understanding of the problem, which clarifies its underlying principles and guides the design of new algorithms.</strong> I usually develop controllable and insightful toy models that isolate individual components of larger models, allowing me to understand the key factors that shape model behavior.</p>
@@ -35,7 +41,7 @@ redirect_from:
   </section>
 
   <section class="content-section" id="publications" aria-labelledby="publications-title">
-    <div class="section-heading"><h2 id="publications-title">Publications</h2><span>02</span></div>
+    <div class="section-heading"><h2 id="publications-title">Publications</h2><span>03</span></div>
     <article class="publication">
       <h3>Emergent Inverse-Depth Scaling From Nonlinearity In Attention</h3>
       <p class="authors"><strong>Zirui Peng</strong>, Yizhou Liu, Ziming Liu, Jeff Gore</p>
@@ -50,12 +56,6 @@ redirect_from:
       <p class="publication-links">2026 preprint, under review · <a href="https://arxiv.org/abs/2610.14500">arXiv</a> · <a href="https://arxiv.org/pdf/2610.14500">PDF</a></p>
       <figure class="publication-figure"><a href="{{ '/images/figure1-activation-bias.png' | relative_url }}" aria-label="Open Figure 1 from the activation bias paper at full size"><img src="{{ '/images/figure1-activation-bias.png' | relative_url }}" alt="Figure 1 shows how reducing activation bias changes output distributions, learning curves, hidden-state trajectories, and loss landscapes" width="2600" height="853" loading="lazy"></a><figcaption>Figure 1. Overview of activation bias and its effects on learning. Click to enlarge.</figcaption></figure>
     </article>
-  </section>
-
-  <section class="content-section" id="background" aria-labelledby="background-title">
-    <div class="section-heading"><h2 id="background-title">Background</h2><span>03</span></div>
-    <div class="entry"><div class="entry-date">Jul–Aug 2026</div><div><h3>Research Intern, MIT Department of Physics</h3><p>Conducted research under the supervision of Prof. Jeff Gore.</p></div></div>
-    <div class="entry"><div class="entry-date">Sep 2024–present</div><div><h3>B.S. in Physics, Peking University</h3><p>2024 School-level Excellent Student; recipient of the 2024 Qin Wanshun Jin Yunhui scholarship.</p></div></div>
   </section>
 
   <section class="content-section" id="contributions" aria-labelledby="contributions-title">
